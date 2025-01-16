@@ -1,1 +1,1 @@
-#This repo is a quick run through of how Github works
+# This repo is a quick run through of how Github works
